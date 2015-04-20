@@ -1,4 +1,4 @@
-//This import works in BlueJ, but not when I compile in Terminal, so I'm not sure how others will get it to compile. I don't know where "comp102x.IO" is or how to get it to compile outside of BlueJ.
+//This requires the comp102x library, available from https://courses.edx.org/courses/HKUSTx/COMP102x/2T2014/e1ac0d84b6a946278c98e4636a6f830f/
 import comp102x.IO;
 
 public class Lab02
